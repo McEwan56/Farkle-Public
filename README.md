@@ -1,1 +1,8 @@
-A copy of my farkle version of the game farkle, developed for my software development course Fall 2024
+# Farkle CPSC 224 Individual Project
+
+Individual Farkle assignment repository for CPSC 224 course
+
+- Student: McEwan Bain
+- Semester: Fall 2023
+- Current assignment: HW3
+
